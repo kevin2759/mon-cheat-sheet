@@ -11,4 +11,4 @@
 - Log = permet d’avoir l’historique du projet
 - Fetch = chercher l’ensemble des modifications dans le dépôt mais ne fusionne pas
 - Rebase = vient écraser l’historique
-- 
+- Mkdire = créer plusieur répertoire 
